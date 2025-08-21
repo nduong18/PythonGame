@@ -2,3 +2,5 @@ SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
 FPS = 60
 BG_COLOR = (255,255,255)
+BG_IMAGE_PATH = "assets/background.jpg"
+PLAYER_IMAGE_PATH = "assets/player.png"
