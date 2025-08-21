@@ -1,0 +1,18 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pycharm / VS Code settings
+*.idea/
+.vscode/
+
+# môi trường ảo
+venv/
+env/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# thư mục chứa asset lớn (nếu bạn muốn không push ảnh/âm thanh)
+assets/
