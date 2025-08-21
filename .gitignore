@@ -15,4 +15,4 @@ env/
 Thumbs.db
 
 # thư mục chứa asset lớn (nếu bạn muốn không push ảnh/âm thanh)
-assets/
+#assets/
